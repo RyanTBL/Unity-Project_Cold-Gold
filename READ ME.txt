@@ -10,4 +10,8 @@ The reason for creating this project was to explore Unity as a development engin
 
 ------------------------------
 
+A playable executable of the game as well as the original development files are avalible upon request.
+
+------------------------------
+
 Date completed: January 2022
