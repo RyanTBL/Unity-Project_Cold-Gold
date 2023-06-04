@@ -1,0 +1,13 @@
+COLD GOLD
+
+Video game project
+
+------------------------------
+
+This project is a finished video game where the player has to sneak around various levels avoiding hostile mobs that patrol around, the idea being to collect as much 'loot' as possible before making their way to the exit, there are sneaking, looting, platforming and key hunting elements.
+
+The reason for creating this project was to explore Unity as a development engine through the creation of a fully finished project.
+
+------------------------------
+
+Date completed: January 2022
