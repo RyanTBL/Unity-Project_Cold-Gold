@@ -1,13 +1,18 @@
-COLD GOLD
+Cold Gold Unity Project
 
-Video game project
++----------------------------------------|
+|Description
++----------
 
-------------------------------
+This project was undertaken as a university assignment for the 3D games development module.
 
-This project is a finished video game where the player has to sneak around various levels avoiding hostile mobs that patrol around, the idea being to collect as much 'loot' as possible before making their way to the exit, there are sneaking, looting, platforming and key hunting elements.
+The video itself involves an unnamed player who  has to sneak around various levels avoiding hostile mobs that patrol around, the idea being to collect as much 'loot' as possible before making their way to the exit, there are sneaking, looting, platforming and key hunting elements.
 
-The reason for creating this project was to explore Unity as a development engine through the creation of a fully finished project.
+Uploaded to the portfolio is a trailer for the game created showcasing some of the levels and gameplay, as well as some of the raw script files taken out of Unity for display, also included is a link to DropBox where an executable version of the game can be downloaded.
 
-------------------------------
++----------------------------------------|
+|Information
++----------
 
-Date completed: January 2022
+Build Time: 	October 2021 - January 2022
+Language: 	C#
